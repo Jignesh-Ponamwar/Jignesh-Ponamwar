@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jignesh Ponamwar
 
-<!--
-**Jignesh-Ponamwar/Jignesh-Ponamwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst building AI-powered systems — automation pipelines, MCP servers, analytics infrastructure, and agents that replace manual workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+**[skills-mcp](https://github.com/Jignesh-Ponamwar/skills-mcp)** — A self-hostable, open-source Agent Skills Registry delivered over MCP. Semantic search across 30 production-ready skills. Runs on Cloudflare Workers, zero config. Live on Glama, PulseMCP, and mcp.so.
+
+**Contextify** — Cross-platform AI memory and conversation continuity MCP server. TypeScript + Supabase + pgvector + OpenAI embeddings. Works across Claude, ChatGPT, and Gemini.
+
+---
+
+### Stack
+
+```
+Python · TypeScript · Claude API · Cloudflare Workers
+Supabase · pgvector · SQL · MCP (Model Context Protocol)
+React · Next.js · Hono · DuckDB · Docker
+```
+
+---
+
+### Day job
+
+Data Analyst at [Datastraw Technologies](https://datastraw.in) — CX infrastructure company, Mumbai.
+Building reporting systems, analytics dashboards, and AI-assisted automation for B2B clients.
+
+---
+
+*Currently open to AI PM and AI Engineering roles.*
